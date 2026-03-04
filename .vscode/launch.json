@@ -1,0 +1,13 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": ".NET (use launchSettings)",
+            "program": "${workspaceFolder}/bin/Debug/net10.0/1040es.dll",
+            "type": "coreclr",
+            "request": "launch",
+            "launchSettingsProfile": "Debug 1040ES",
+            "stopAtEntry": false
+        }
+    ]
+}
