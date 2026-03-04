@@ -1,8 +1,8 @@
 {
   "profiles": {
-    "1040ES": {
+    "Debug 1040ES": {
       "commandName": "Project",
-      "commandLineArgs": "\"D:\\users\\edkei\\OneDrive/Filing Cabinet/Planning/2025 Form 1040-ES.pdf\" \"D:\\users\\edkei\\OneDrive/Filing Cabinet/Planning/2025-12 - Form 1040-ES.pdf\"\r\n 263520 95906 26534 0 514 25316 24452"
+      "commandLineArgs": "\"c:\\users\\edkei\\OneDrive\\Filing Cabinet\\Planning\\2026 Form 1040-ES.pdf\" \"c:\\users\\edkei\\OneDrive\\Filing Cabinet\\Planning\\2026-03 - Form 1040-ES.pdf\" 263520 95906 26534 0 514 25316 24452"
     }
   }
 }
